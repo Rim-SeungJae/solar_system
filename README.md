@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
 # solar_system
 This repository is about the fourth assignment of SKKU's 2021 Introduction to Computer Graphics. This project further developed the [moving_planets](https://github.com/dipreez/moving_planets) and implemented a more sophisticated solar system simulation program. The satellites and rings of each planet were rendered, the texture of the planets was loaded and bound to a sphere, and the sun was set as a light source to implement shading.
+![cg4](https://github.com/dipreez/solar_system/assets/50349104/7a00a640-c061-492f-a947-1d5109c1dd5a)
 
 # Algorithms and data structures
 ## Dwarf planets
